@@ -15,7 +15,7 @@ echo -e '\033[31;40;1m
        ██   ██    ██           ██  ██ ██ ██   ██  ███    ██   ██ ██        
        ██████     ██           ██   ████ ██   ██ ███████ ██   ██ ███████   v4
   Coded by @real__nxzal(dm me in insta)
-  github: https://github.com/real__nxzal
+  github: https://github.com/nazal0075
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m Muhammed nazal
 
 \e[37m[1]\e[ Requests & Updates        \e[37m[2]\e[36m Phishing Tool				
