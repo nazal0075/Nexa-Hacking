@@ -1,7 +1,8 @@
 Author: 4lbH4cker
 ### Version 4
 
-<img width="1514" height="1039" alt="nexahacking" src="https://github.com/user-attachments/assets/fcbbc646-4d67-4cb4-bfb1-4a5761dbe12d" />
+<img width="555" height="425" alt="image" src="https://github.com/user-attachments/assets/12f374e6-912f-47b4-ab1f-0a4eb2bf21bf" />
+
 
 
 # Hacking Tools
