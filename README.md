@@ -1,7 +1,8 @@
 Author: 4lbH4cker
 ### Version 4
 
-(![image](https://raw.githubusercontent.com/nazal0075/Nexa-Hacking/blob/main/nexahacking.png)
+<img width="1514" height="1039" alt="nexahacking" src="https://github.com/user-attachments/assets/fcbbc646-4d67-4cb4-bfb1-4a5761dbe12d" />
+
 
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
